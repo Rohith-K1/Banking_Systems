@@ -1,8 +1,8 @@
 # Banking_Systems
-Outline
+# Outline
 This is a c++ code which performs banking operations of several bank accounts using linked lists.
 
-Instructions
+# Instructions
 To add bank accounts: Specify the number of bank accounts and then enter the account numbers.
 
 To record transactions: Specify the number of transactions and enter each transaction. Each transaction is of form : BankAccountNumber W/D Amount( W for withdrawl and D for deposit).By default each account has amount of 1000 units.
